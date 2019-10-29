@@ -8,4 +8,4 @@ https://uro3.github.io/web-ar-test/
 
 #### マーカー
 
-![マーカー](./images/pattern-marker.png)
+![マーカー](./patterns/pattern-marker.png)
