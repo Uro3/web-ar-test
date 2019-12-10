@@ -2,10 +2,6 @@
 
 ## デモ
 
-#### URL
-
-https://uro3.github.io/web-ar-test/
-
 #### マーカー
 
 ##### 1
@@ -18,4 +14,8 @@ https://uro3.github.io/web-ar-test/
 
 ##### 3
 
-![マーカー2](./patterns/pattern-qr_3.png)
+![マーカー3](./patterns/pattern-qr_3.png)
+
+##### 4
+
+![マーカー4](./patterns/pattern-mark-black.png)
